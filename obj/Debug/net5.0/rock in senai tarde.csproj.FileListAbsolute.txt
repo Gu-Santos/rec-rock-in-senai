@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.exe
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.deps.json
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.runtimeconfig.json
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.runtimeconfig.dev.json
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.dll
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\ref\rock in senai tarde.dll
+C:\Users\dev\Desktop\rock in senai tarde\bin\Debug\net5.0\rock in senai tarde.pdb
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.AssemblyInfo.cs
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.dll
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\ref\rock in senai tarde.dll
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.pdb
+C:\Users\dev\Desktop\rock in senai tarde\obj\Debug\net5.0\rock in senai tarde.genruntimeconfig.cache
